@@ -15,5 +15,11 @@
  12. Async
 
 
+
+![image](https://github.com/user-attachments/assets/6bc9e5f6-4a2f-49f1-b624-ac110d782005)
+
+
+
+
 https://www.mongodb.com/resources/basics/artificial-intelligence/ai-stack
 
