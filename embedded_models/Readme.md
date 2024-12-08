@@ -1,7 +1,7 @@
 
 
 # Hugging Face emebdded Models (open source models)
-1. sentence-transformers/all-mpnet-base-v2"
+1. sentence-transformers/all-mpnet-base-v2
 
 ```
 embeddings = HuggingFaceInstructEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2") (dimenssion:768)
