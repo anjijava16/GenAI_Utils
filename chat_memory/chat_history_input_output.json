@@ -1,0 +1,49 @@
+{
+  "data": {
+    "id": "run-8f0a1fe2-dc5d-4480-890e-eb2db7a0c313-0",
+    "name": null,
+    "type": "ai",
+    "content": "New York City is generally a safe place for visitors, with millions of tourists visiting each year without any issues. However, like any major city, it is important to stay vigilant and take precautions to ensure your safety. Here are some tips to help you stay safe while in New York City:\n\n1. Be aware of your surroundings and trust your instincts.\n2. Keep your belongings secure and be cautious in crowded areas.\n3. Use reputable transportation services and avoid unlicensed taxis.\n4. Stick to well-lit and populated areas, especially at night.\n5. Stay on main streets and avoid dark, deserted areas.\n6. Be cautious when using ATMs and protect your personal information.\n7. Familiarize yourself with the locations of police stations and hospitals.\n8. Avoid engaging with aggressive or confrontational individuals.\n9. Stay informed about any local safety advisories or warnings.\n\nBy following these safety tips and using common sense, you can help ensure a safe and enjoyable experience in New York City. If you ever feel unsafe or need assistance, don't hesitate to reach out to local authorities or seek help from trusted individuals.",
+    "example": false,
+    "tool_calls": [],
+    "usage_metadata": {
+      "input_tokens": 4481,
+      "total_tokens": 4706,
+      "output_tokens": 225,
+      "input_token_details": {
+        "audio": 0,
+        "cache_read": 0
+      },
+      "output_token_details": {
+        "audio": 0,
+        "reasoning": 0
+      }
+    },
+    "additional_kwargs": {
+      "refusal": null
+    },
+    "response_metadata": {
+      "logprobs": null,
+      "model_name": "gpt-3.5-turbo-0125",
+      "token_usage": {
+        "total_tokens": 4706,
+        "prompt_tokens": 4481,
+        "completion_tokens": 225,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "finish_reason": "stop",
+      "system_fingerprint": null
+    },
+    "invalid_tool_calls": []
+  },
+  "type": "ai"
+}
