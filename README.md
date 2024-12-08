@@ -13,3 +13,7 @@
  10. Chains
  11. Callbacks/Tracing
  12. Async
+
+
+https://www.mongodb.com/resources/basics/artificial-intelligence/ai-stack
+
