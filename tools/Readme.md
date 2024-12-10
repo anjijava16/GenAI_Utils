@@ -209,7 +209,9 @@ print(response)
 3. **Testing**:
    - Simulate various user inputs and refine tool usage.
 
-  ```
+# OpenAI Input and output classes :
+
+```
 response = openai.chat.completions.create(
     model='gpt-4o',
     messages=messages,
