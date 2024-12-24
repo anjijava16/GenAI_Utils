@@ -23,6 +23,11 @@
 
 https://www.mongodb.com/resources/basics/artificial-intelligence/ai-stack
 
+# Agebtuc 
+"Agent" can be defined in several ways. Some customers define agents as fully autonomous systems that operate independently over extended periods, using various tools to accomplish complex tasks. Others use the term to describe more prescriptive implementations that follow predefined workflows. At Anthropic, we categorize all these variations as agentic systems, but draw an important architectural distinction between workflows and agents:
+
+1. Workflows are systems where LLMs and tools are orchestrated through predefined code paths.
+2. Agents, on the other hand, are systems where LLMs dynamically direct their own processes and tool usage, maintaining control over how they accomplish tasks.
 
 # Agentic Frameworks
 1. Langgraph
@@ -30,7 +35,7 @@ https://www.mongodb.com/resources/basics/artificial-intelligence/ai-stack
 3. Custom Agent Framework
 4. crewAI
 5. OpenAI Swarm
-6. AWS Agent Framework 
+6. AWS Agent Framework (https://aws.amazon.com/bedrock/agents/)
 7. dynamiq-ai (https://www.getdynamiq.ai/)
 8. Pydantic AI https://ai.pydantic.dev/agents/
 9. phidata (https://www.phidata.com/)
