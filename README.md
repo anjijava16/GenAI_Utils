@@ -23,3 +23,13 @@
 
 https://www.mongodb.com/resources/basics/artificial-intelligence/ai-stack
 
+
+# Agentic Frameworks
+1. Langgraph
+2. CrewAI
+3. Autogen
+4. OpenAI Swarm
+5. dynamiq-ai (https://www.getdynamiq.ai/)
+6. Pydantic AI https://ai.pydantic.dev/agents/
+7. phidata (https://www.phidata.com/)
+8. 
