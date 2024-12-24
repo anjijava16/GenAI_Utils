@@ -1,5 +1,7 @@
 
 # Install qdrant database 
+docker run -p 6333:6333 -v .:/qdrant/storage qdrant/qdrant
+
 
 
 # qdrant end point url
