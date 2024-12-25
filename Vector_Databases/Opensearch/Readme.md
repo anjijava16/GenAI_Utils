@@ -1,3 +1,6 @@
+http://localhost:5601/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&_a=(columns:!(_source),filters:!(),index:'845e2e40-c27d-11ef-b442-79f69ef1e72b',interval:auto,query:(language:kuery,query:''),sort:!())
+
+
 # search all
 ```
 GET _search
