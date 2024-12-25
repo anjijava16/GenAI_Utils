@@ -1,11 +1,16 @@
 
 # OpenAI UI
+https://chatgpt.com/
 
 # Anthropic Console UI 
+https://claude.ai/
 
+# Gemini AI
+https://gemini.google.com/
 
 # Cohere Console UI 
-# Gemini AI
+https://dashboard.cohere.com/playground/chat
+
 
 # Grok Console UI 
 https://x.com/i/grok?focus=1
