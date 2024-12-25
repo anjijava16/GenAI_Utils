@@ -18,3 +18,8 @@ https://x.com/i/grok?focus=1
 
 # Mistral AI
 https://chat.mistral.ai/chat
+
+
+# LLMA 3 
+1. Should access through HuggingFace
+2. or OLLMA local model
