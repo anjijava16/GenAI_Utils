@@ -33,17 +33,20 @@ https://www.mongodb.com/resources/basics/artificial-intelligence/ai-stack
 10. RAG (Retrive Argumented Generation)
 11. RAG (Step1: Ingestion into Vector databases using vector datatypes
 12. RAG (step 2: Retrival and query )
-13. Different RAG Techniques
-14. Agents
-15. Agents with Lanachain
-16. Agents with different framework (like below)
-17. Multi Agents
-18. LLOPS
-19. Gen AI with AWS (Bedrock) & AWS sagemaker jupmstart 
-20. Gen AI with Google (VertexAI)
-21. Gen AI with Azure (Azure studio)
-22. Understand different Nenural Networks (ANN, CNN,RNN ,LSTN, Seequence frameworks ,Transformers)
-23. Understand different models 
+13. Eval RAG
+14. Eval RAG with all ops
+15. Different RAG Techniques
+16. Agents
+17. Agents with Lanachain
+18. Agents with different framework (like below)
+19. Multi Agents
+20. Agents Evals
+21. LLOPS
+22. Gen AI with AWS (Bedrock) & AWS sagemaker jupmstart 
+23. Gen AI with Google (VertexAI)
+24. Gen AI with Azure (Azure studio)
+25. Understand different Nenural Networks (ANN, CNN,RNN ,LSTN, Seequence frameworks ,Transformers)
+26. Understand different models 
 
 # Agents
 "Agent" can be defined in several ways. Some customers define agents as fully autonomous systems that operate independently over extended periods, using various tools to accomplish complex tasks. Others use the term to describe more prescriptive implementations that follow predefined workflows. At Anthropic, we categorize all these variations as agentic systems, but draw an important architectural distinction between workflows and agents:
