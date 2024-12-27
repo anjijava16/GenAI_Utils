@@ -18,20 +18,8 @@ Transformers (2018): Models like BERT and GPT took embeddings further by focusin
 
 These advances made it possible for AI to capture the intricacies of human language with remarkable accuracy.
 
-#  How AI Learns (at Warp Speed)
-The process mirrors how children learn language—but on a much larger scale. A child learns that "cup" and "mug" often mean the same thing and that "hot" and "cold" are opposites, all by observing patterns. Embedding systems do something similar but analyze millions of texts in minutes.
-
-They notice patterns such as:
-
-Words that often appear in similar contexts (e.g., "dog" and "cat" both "bark," "sleep," and "run").
-
-Words frequently used together (e.g., "San" and "Francisco").
-
-Words that can substitute for each other (e.g., "beautiful" and "gorgeous").
-
-These patterns are then converted into numbers. Each word is represented by a vector—a long list of numbers designed to capture its meaning. Words with similar meanings end up with similar vectors.
-
 🔢 Embedding Language at Every Level
+
 Embeddings aren’t limited to words. They can represent sentences, paragraphs, or even entire documents. This flexibility is key for applications ranging from search engines to chatbots.
 
 # Why Embed Different Sizes?
