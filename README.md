@@ -20,6 +20,11 @@
 
 https://www.mongodb.com/resources/basics/artificial-intelligence/ai-stack
 
+# Process automation vs ML Model vs GenAI VS Agent AI
+
+![image](https://github.com/user-attachments/assets/4813d657-be60-4ae4-a983-2d66b35e3cc7)
+
+
 # GenAI Building Blocks 
 1. Model
 2. Chat Model
