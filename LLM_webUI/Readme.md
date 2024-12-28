@@ -8,6 +8,9 @@ https://claude.ai/
 # Gemini AI
 https://gemini.google.com/
 
+https://aistudio.google.com/prompts/new_chat
+
+
 # Cohere Console UI 
 https://dashboard.cohere.com/playground/chat
 
@@ -23,3 +26,13 @@ https://chat.mistral.ai/chat
 # LLMA 3 
 1. Should access through HuggingFace
 2. or OLLMA local model
+
+
+# you
+https://you.com/
+
+# perplexity
+https://www.perplexity.ai/
+
+# Deepseek
+https://www.deepseek.com/
