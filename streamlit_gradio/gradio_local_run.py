@@ -20,7 +20,7 @@ demo = gr.Interface(
         label="Your Travel Plan",
         lines=10
     ),
-    title="Travel Agent By Agentversity",
+    title="Travel Agent By ",
     description="Let me help you plan your perfect trip! Just describe what kind of trip you're looking for.",
     theme="soft",
     examples=[
